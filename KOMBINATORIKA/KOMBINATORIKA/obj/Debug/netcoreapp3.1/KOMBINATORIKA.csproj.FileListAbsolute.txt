@@ -1,0 +1,14 @@
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\obj\Debug\netcoreapp3.1\KOMBINATORIKA.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\obj\Debug\netcoreapp3.1\KOMBINATORIKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\obj\Debug\netcoreapp3.1\KOMBINATORIKA.AssemblyInfoInputs.cache
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\obj\Debug\netcoreapp3.1\KOMBINATORIKA.AssemblyInfo.cs
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\obj\Debug\netcoreapp3.1\KOMBINATORIKA.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\bin\Debug\netcoreapp3.1\KOMBINATORIKA.exe
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\bin\Debug\netcoreapp3.1\KOMBINATORIKA.deps.json
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\bin\Debug\netcoreapp3.1\KOMBINATORIKA.runtimeconfig.json
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\bin\Debug\netcoreapp3.1\KOMBINATORIKA.runtimeconfig.dev.json
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\bin\Debug\netcoreapp3.1\KOMBINATORIKA.dll
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\bin\Debug\netcoreapp3.1\KOMBINATORIKA.pdb
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\obj\Debug\netcoreapp3.1\KOMBINATORIKA.dll
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\obj\Debug\netcoreapp3.1\KOMBINATORIKA.pdb
+C:\Users\ucenik\source\repos\KOMBINATORIKA\KOMBINATORIKA\obj\Debug\netcoreapp3.1\KOMBINATORIKA.genruntimeconfig.cache

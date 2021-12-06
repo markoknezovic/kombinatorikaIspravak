@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pB+slfDLYsrJMRwk4tMo3YXoUmUqTFCDtG4Mp8TH84kegRhaIw+YRb1P0rXC5PZb6iKpSYDPmyuqwuiDkT3sCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ucenik\\source\\repos\\KOMBINATORIKA\\KOMBINATORIKA\\KOMBINATORIKA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ucenik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
